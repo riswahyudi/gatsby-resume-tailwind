@@ -1,0 +1,195 @@
+{
+  "contact": {
+    "phone": "+62 819 1486 5346",
+    "email": "riswahyudia@gmail.com",
+    "website": "https://www.nooblasto.com",
+    "location": "Sidoarjo, Indonesia"
+  },
+  "skills": [
+    {
+      "title": "General",
+      "type": "percent",
+      "subskills": [
+        {
+          "name": "Graphic Design",
+          "percent": 85
+        },
+        {
+          "name": "Web Development",
+          "percent": 95
+        },
+        {
+          "name": "Digital Marketing",
+          "percent": 95
+        }
+        
+      ]
+    },
+    {
+      "title": "Languages",
+      "type": "percent",
+      "subskills": [
+        {
+          "name": "Javascript",
+          "percent": 96
+        },
+        {
+          "name": "PHP",
+          "percent": 74
+        }
+      ]
+    },
+    {
+      "title": "Frameworks",
+      "type": "tag",
+      "subskills": [
+        {
+          "name": "React"
+        },
+        {
+          "name": "Laravel"
+        },
+        {
+          "name": "Vue"
+        },
+        {
+          "name": "Gatsby"
+        }
+      ]
+    },
+    {
+      "title": "Software",
+      "type": "tag",
+      "subskills": [
+        {
+          "name": "Adobe Illustrator"
+        },
+        {
+          "name": "Adobe Photoshop"
+        },
+        {
+          "name": "CorelDraw"
+        }
+      ]
+    },
+    {
+      "title": "Databases",
+      "type": "tag",
+      "subskills": [
+        {
+          "name": "MySQL"
+        },
+        {
+          "name": "Mongodb"
+        },
+        {
+          "name": "PostgreSQL"
+        },
+        {
+          "name": "Firebase"
+        },
+        {
+          "name": "Elastic Search"
+        }
+      ]
+    }
+  ],
+  "summary": "I am a computer grad student make love exploring new technologies and often amazed by the progress we as a human species have mad so far in the recent years. I have started reflecting my ideas and thougths through on my blog. You can write me back if you spot any and don't want to live anymore.",
+  "education": [
+    {
+      "institution": "Middle East Technical University, Turkey",
+      "degree": "Geological Engineering",
+      "start": "2013",
+      "end": "2006"
+    },
+    {
+      "institution": "Gazi University, Turkey",
+      "degree": "Industrial Engineering",
+      "start": "2002",
+      "end": "2006"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Consultant",
+      "company": "Baran Cezayirli Consulting",
+      "description": "I consult startups to take their concept to the next level.",
+      "start": "08/2018",
+      "end": ""
+    },
+    {
+      "role": "Full Stack Tech Lead",
+      "company": "Malaeb Limited",
+      "description": "Malaeb is a group sports community and booking platform. I was managing all technical aspects of the product. I designed a new solution to improve the current platform, build and manage a new development team to migrate the new app. Implement better internal processes to increase productivity.",
+      "start": "11/2018",
+      "end": "09/2019"
+    },
+    {
+      "role": "Full Stack Tech Lead",
+      "company": "Solve Care",
+      "description": "Solve care is a healthcare blockchain platform. I was responsible for the client side development team and architecture of the platform. I was also active in product management team.",
+      "start": "04/2018",
+      "end": "11/2018"
+    },
+    {
+      "role": "Full Stack Lead Developer",
+      "company": "Applied Blockchain",
+      "description": "Applied Blockchain built blockchain applications for enterprises and startups. I built 4 full stack blockchain projects during my contract.",
+      "start": "10/2017",
+      "end": "04/2018"
+    },
+    {
+      "role": "Full Stack Lead Developer",
+      "company": "Dmapper",
+      "description": "Worked as a lead full-stack developer for Cortex which is B2B audit automation software for Deloitte. I was responsible for the architecture and development of the platform, managing development team.",
+      "start": "12/2016",
+      "end": "10/2017"
+    },
+    {
+      "role": "Front End Developer - UI/UX Designer",
+      "company": "GovRight",
+      "description": "GovRight provides citizens the opportunity to understand and contribute to government and legislation. I was responsible for the UX and development of admin interface for the platform.",
+      "start": "11/2015",
+      "end": "04/2016"
+    },
+    {
+      "role": "Full Stack Developer",
+      "company": "Freelance",
+      "description": "In the first years of my career, I had the privilege to work with many startups and building my own games and applications.",
+      "start": "04/2008",
+      "end": "01/2016"
+    }
+  ],
+  "social": [
+    {
+      "service": "youtube",
+      "url": "https://www.youtube.com/channel/UCvvh-fYiZFaujv1sSi2VlCQ"
+    },
+    {
+      "service": "linkedin",
+      "url": "https://www.linkedin.com/in/riswahyudi"
+    },
+    {
+      "service": "github",
+      "url": "https://github.com/riswahyudi"
+    },
+    {
+      "service": "facebook",
+      "url": "https://www.facebook.com/riswahyudia"
+    },
+    {
+      "service": "instagram",
+      "url": "https://www.instagram.com/denzhel_ra"
+    }
+  ],
+  "role": "Technologist",
+  "projects": [
+    {
+      "name": "Gatsby resume starter",
+      "company": "Open source",
+      "description": "Gatsby resume tailwind is a free starter template with  Netlify CMS implementation. It is easy to customize the design with thanks to tailwind theming capabilities. It uses git as a backend and can be deployed to any static hosting service like Netlify, firebase hosting or Github pages.",
+      "link": "https://github.com/riswahyudi/gatsby-resume-tailwind"
+    }
+  ],
+  "fullname": "Riswahyudi Ardyanto"
+}
